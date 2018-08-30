@@ -15,5 +15,10 @@
         app:itemIconTint="@color/darkgray"
         app:menu="@menu/drawermenu"
         android:layout_gravity="start">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/main_container">
+        </FrameLayout>
     </android.support.design.widget.NavigationView>
 </android.support.v4.widget.DrawerLayout>

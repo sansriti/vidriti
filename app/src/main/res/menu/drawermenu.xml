@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-<item android:id="@+id/db" android:title="Dashboard"/>
-    <item android:id="@+id/event" android:title="Events"/>
-    <item android:id="@+id/search" android:title="Search"/>
-    <item android:id="@+id/settings" android:title="Settings"/>
-    <item android:id="@+id/activities" android:title="Activities"/>
+<item android:id="@+id/hm" android:title="Home"/>
+    <item android:id="@+id/setting" android:title="Setting"/>
+    <item android:id="@+id/wl" android:title="Wishlist"/>
+    <item android:id="@+id/acc" android:title="Account"/>
+    <item android:id="@+id/yo" android:title="Your Order"/>
     <item android:id="@+id/logout" android:title="Logout"/>
 
 </menu>
